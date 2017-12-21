@@ -18,6 +18,7 @@ public class Departamento {
     public int getCodigo() {
         return this.codigo;
     }
+    //prueba 1
 
     /**
      *
@@ -30,7 +31,7 @@ public class Departamento {
     public String getNombre() {
         return this.nombre;
     }
-
+        //gasuagda
     /**
      *
      * @param nombre
