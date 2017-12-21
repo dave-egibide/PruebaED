@@ -45,5 +45,6 @@ public class Departamento {
         this.codigo=codigo;
         this.nombre=nombre;
         this.empresa= empresa;
+        sout.out.println("fin");
     }
 }
